@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/best-vampire-movies-1561412985.jpg);
+    background-position: center;
+    background-size: cover;
+} 
+.header{
+    height: 10%;
+}
+.header-btn{
+    text-decoration: none !important;
+    padding: 7px 20px;
+    float: right;
+    color: #fff !important;
+    margin-top: 15px;
+    background: #107afd;
+    font-weight: 600;
+    border-radius: 30px;
+}
+.movie-details{
+    margin: 3% 0;
+}
+.left-box{
+    color: white;
+    margin: 15px 0;
+    padding: 20px;
+}
+.casting img{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+.left-box a{
+    text-decoration: none !important;
+    padding: 7px 20px;
+    color: #fff !important;
+    margin-top: 35px;
+    background: #107afd;
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 10px;
+    border-radius: 30px;
+
+ }
+ .download-btn{
+     border: 1px solid #fff !important;
+     background: transparent !important;
+ }
+ .fa{
+    margin-right: 8px; 
+ }
+ .movie-img{
+     height: 500px;
+     box-shadow: -4px 4px 5px 0 #000;
+ }
+ .series h3{
+     color: white;
+     margin-top: 20px;
+ }
+
+ .series img{
+     width: 150px;
+     height: 200px;
+     margin-top: 15px;
+     box-shadow: -4px 4px 5px 0 #000;
+     cursor: pointer;
+ }
